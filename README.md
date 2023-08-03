@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NothingLeftofMe
 - 👀 I’m interested in making Mastodon more accessible to the online diabled community by providing feedback on Mastodon.
-- Contact me  on Mastodon a:  @NothingLeftOfMe@mastodon.online
+- Contact me  on Mastodo (this is NOT an e-mail address!): @NothingLeftOfMe@mastodon.online
